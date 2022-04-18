@@ -1,3 +1,4 @@
+// https://omegaup.com/arena/problem/Terna-Pitagorica/
 // https://es.wikibooks.org/wiki/Matem%C3%A1ticas/Ecuaciones/Ecuaci%C3%B3n_Pitag%C3%B3rica
 
 #include <iostream>
