@@ -6,13 +6,9 @@ using namespace std;
 
 int main () {
 
-    vector<int> arr = {4, 12, 45, 62, 2, 9, 0};
+    vector<int> arr = {12, 4, 45, 62, 2, 9, 0};
 
-    for (auto elm: arr) {
-        cout << elm << endl;
-    }
-
-    sort(arr.begin(), arr.end());
+    sort(arr.begin()+1, arr.end()-1);
 
     for (auto elm: arr) {
         cout << elm << endl;
